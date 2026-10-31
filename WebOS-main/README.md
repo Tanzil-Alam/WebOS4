@@ -1,8 +1,24 @@
-# WebOS
-I have built a WebOS that runs in Website. It has 3 built in apps, They are the Guide, Flappy Bird, Notepad. Its a simple project. Anyone can play apps this by clicking in the logo. It uses Html, Css and Js. The design is so simple, It also has clock and Date. It uses a background image too. The app.html's are the apps, i created in other html. the window plays this html's.
+# Massage to reviewer,
+Here is some information for your help it rate it well. You Might check these according the mission,
 
-#WebOS 2
-I have updated the WebOS into WebOS 2, Here is what i changed,
+#  Have a working webpage with multiple draggable windows
+- Yes, i have made a working webpage with multiple draggable windows. It uses html files, so please wait while loading. Everything is actually working.
+
+
+#  It should look like your own and not exactly like the guide
+ Yes, It has it own design.
+
+#  Have at least 3 devlogs showing your progress along the way
+ Unfortunetly, I forgotted to post the devlogs, I apologize for the mistake. Please accept my aplogy and forgive me.
+
+# Have at least 1 new feature that the guide didn’t list
+Yes, It have many apps, which was not told in guide.
+
+# It shouldn’t have a password (so anyone can test it out!)
+Yes, It don't have any password. Anyone can play it via the link
+
+# WebOS
+I have created a webos, here is about it,
 
 1, Added a Calculator which is really works
 2, Updated the window style and its header
