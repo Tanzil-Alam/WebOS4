@@ -29,6 +29,3 @@ I have created a webos, here is about it,
 7, updated the Guide into a welcome page.
 
 for watching the demo, go to - https://tanzil-alam.github.io/WebOS4/
-
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91733ec7-335e-44a9-8dda-c6a2ee41a739" />
