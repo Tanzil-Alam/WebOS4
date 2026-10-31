@@ -28,5 +28,4 @@ I have created a webos, here is about it,
 6, made every css, js, html files separated from each other. it helps to solve erros more fast and easily
 7, updated the Guide into a welcome page.
 
-for watching the demo, go to - https://tanzil-alam.github.io/WebOS/
-<img width="1920" height="1080" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/816b9f3c-f27e-44c0-9fdf-5920e66d1e3e" />
+for watching the demo, go to - https://tanzil-alam.github.io/WebOS4/
