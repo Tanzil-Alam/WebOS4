@@ -11,7 +11,7 @@ setInterval(updateDate, 1000);
 updateDate();
 
 
-const clientId = 'UsHZYUxqJH8d6jzcaYwc-tISIPomaIY5mvq1KzJUDck';
+const clientId = 'FZAOiM1GBsomS78DdS9f9GmxkJq9m_8dpGbRR1T8st4';
 
 function fetchUnsplashBackground() {
     const unsplashUrl = `https://api.unsplash.com/photos/random?client_id=${clientId}&orientation=landscape`;
